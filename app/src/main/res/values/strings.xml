@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DM_Proyecto1_FoodApp</string>
+    <string name="titulo">Fast and Delicious Food</string>
+    <string name="search">Search...</string>
+</resources>
